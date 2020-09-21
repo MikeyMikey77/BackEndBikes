@@ -8,3 +8,5 @@ How to start:
 3.Using pre installed npm, type command "npm install".
 
 4.After loading, run with npm command "npm start".
+
+Note: before execute item 4 from above, MongoDB server(mongod.exe) should already be running!
